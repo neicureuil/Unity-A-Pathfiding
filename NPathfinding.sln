@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPathfinding", "NPathfinding.csproj", "{E2060040-6D45-43D8-8877-37BC3FF96812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2060040-6D45-43D8-8877-37BC3FF96812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2060040-6D45-43D8-8877-37BC3FF96812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2060040-6D45-43D8-8877-37BC3FF96812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2060040-6D45-43D8-8877-37BC3FF96812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D58CDE9-73AC-42B5-BA0A-C7A21F38990D}
+	EndGlobalSection
+EndGlobal
